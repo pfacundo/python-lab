@@ -8,6 +8,7 @@
 #user would like to roll again.
 import random
 
+counter = 0
 def roll_the_dice(dice: int) -> None:
   for i in range(dice):
     die: int = random.randint(1, 6)
@@ -16,9 +17,11 @@ def roll_the_dice(dice: int) -> None:
 while(True):
   choice = input('Rolling the dice?(y/n): ').lower()
   if choice == 'y':
+    counter += 1
     dice = int(input('How many dice do you want to use?: '))
     roll_the_dice(dice)
   elif choice == 'n':
+    print(f'You have roll the dice {counter} times')
     print('Thanks for play, Bye!')
     break
   else:
