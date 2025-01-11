@@ -21,7 +21,7 @@ while(True):
     dice = int(input('How many dice do you want to use?: '))
     roll_the_dice(dice)
   elif choice == 'n':
-    print(f'You have roll the dice {counter} times')
+    print(f'You have rolled the dice {counter} times')
     print('Thanks for play, Bye!')
     break
   else:
