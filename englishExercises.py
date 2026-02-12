@@ -1,4 +1,5 @@
-#count the quantity of word from the next text.
+# This is a simple program to count the quantity of words in a text and to write a resume of the passage.
+# count the quantity of word from the next text.
 text = """
 The implementation of the computarized voting system is considered to be used in US elections,
 changing the old manual system. But all this has a big problem of confidence in the system.
@@ -49,3 +50,27 @@ reliability.
 
 word_count3 = len(Resume.split())
 #print("The total number of words in the third text is:", word_count3)
+
+#------------------------------------------------------------------------------------------------------------
+
+#The next part is to let notes of the result of a english exam 
+1.a
+2.a b
+3.b c
+4.c 
+5.d a
+6.b 
+7.a d
+8.c
+9. a 
+10.b
+11.b
+           SENT                                          
+1. d a She HAS SENT me the money three weeks ago, but I HAVEN'T received it yet.
+2. b c I HAVE VISITED my grandmother this morning. She LOOKS much better than last week.
+3. c b 
+4. b c
+5. b 
+6. a b
+7. c 
+8. c

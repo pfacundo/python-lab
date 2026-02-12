@@ -1,0 +1,24 @@
+
+Quien se sume será responsable de coordinar y hacer seguimiento de despliegues e instalaciones de aplicaciones en entorno AWS complejo y su integración con sistemas on‑premise.
+
+
+Funciones y Responsabilidades:
+
+-Coordinar y hacer seguimiento de deploys en AWS, controles, pruebas y planes de rollback.
+-Validar, con equipos técnicos, requisitos funcionales y no funcionales (performance, seguridad, disponibilidad).
+-Ser punto de contacto operativo entre proveedor, infraestructura/cloud, desarrollo, seguridad y negocio.
+-Asegurar documentación técnica y de despliegue; gestionar incidencias hasta su resolución.
+-Entender la arquitectura en AWS (microservicios, Lambdas, SQS, Kinesis, API Gateway, EventBridge, etc.) y su consistencia entre DEV, QA, PRE y PROD.
+-Supervisar la integración Cloud-On‑Prem vía APIs y eventos, y coordinar conectividad (VPN, gateways, firewalls, etc.).
+-Verificar que las APIs cumplen lineamientos de seguridad; coordinar revisiones con Seguridad y respetar políticas de secretos, certificados y credenciales.
+-Mantener planes de despliegue, checklists y matriz de dependencias; documentar lecciones aprendidas y proponer mejoras (automatización, alertas).
+-Asegurar métricas y alertas sobre microservicios, colas, Lambdas y APIs; gestionar riesgos previos al deploy y participar en incidentes y rollbacks.
+
+PREGUNTAS
+
+¿Cuál es el problema técnico más complejo que están enfrentando hoy?
+ON CALL TIENEN?
+beneficios, OS, gym, flexibilidad horaria, mudanza, gastos interesante
+como valoran el crecimiento en la empresa ademas de los aspectos tecnicos
+como manejan los errores en PROD
+como esta conformado el equipo
